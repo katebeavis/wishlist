@@ -1,5 +1,5 @@
 # Wishlist
-A todo list written in Javascript.
+A todo list written in Javascript and jQuery.
 
 Items can be added to the list with a pending button. When the button is clicked, it will change into a done button with a strikethrough applied to the item.
 
